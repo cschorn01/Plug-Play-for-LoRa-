@@ -1,4 +1,4 @@
-# PlugAndPlayForLoRa
+# PlugAndPlay For LoRa
 
 [![By Chris Schorn](https://img.shields.io/badge/Author-Chris_Schorn-FFFFFF?style=for-the-badge)](https://github.com/cschorn01)
 ![Status](https://img.shields.io/badge/Status-Working-FFFFFF?style=for-the-badge)
