@@ -5,7 +5,7 @@
 [![Download Repository Zip](https://img.shields.io/badge/Download_Repository_Zip-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/PlugAndPlayForLoRa/archive/refs/heads/main.zip)
 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
-[![Semtech LoRa](https://img.shields.io/badge/LoRa-1CAEED?style=for-the-badge)](https://www.semtech.com/lora)
+[![Semtech LoRa](https://img.shields.io/badge/Semtech_LoRa-1CAEED?style=for-the-badge)](https://www.semtech.com/lora)
 [![DLP Design](https://img.shields.io/badge/DLP_Design-0D6696?style=for-the-badge)](https://www.dlpdesign.com/rf/rfs1280.php)
 [![Tindie](https://img.shields.io/badge/tindie-113C77?style=for-the-badge)](https://www.tindie.com/products/olivetreelabs/24ghz-lora-arduino-shield/)
 
